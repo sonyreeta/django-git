@@ -15,4 +15,5 @@ separated.append (print("helo ", sony))
 
 separated.append (print("hddfif", nani))
 
+print("hello")
 
